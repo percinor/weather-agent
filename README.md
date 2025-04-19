@@ -22,6 +22,8 @@ If no dates are provided, return today's date.
 Output a JSON object containing the extracted information with the following keys: "city", "start_date", and "end_date".  
 User input:
 """
+
+
 #https://api.open-meteo.com/v1/forecast?daily=weather_code,apparent_temperature_max,apparent_temperature_min&latitude=35.0115754&longitude=135.7681441&start_date=2025-04-21&end_date=2025-04-21
 
 #url = f"https://api.open-meteo.com/v1/forecast?daily=weather_code,apparent_temperature_max,apparent_temperature_min&latitude={latitude}&longitude={longitude}&start_date={start_date}&end_date={end_date}"
