@@ -1,6 +1,10 @@
 # weather-agent
 a python weather gemini agent
 
+client.models.generate_content(
+      model="gemini-2.0-flash",      
+      contents= prompt )
+
 What's tomorrow's date? What will the weather be like in Tokyo tomorrow?
 
 give me a system prompt, extract information from user input to get city and start date and end date ,if only have a date ,start date and end date is same date. output a json
@@ -19,6 +23,6 @@ Output a JSON object containing the extracted information with the following key
 User input:
 """
 
-# url = f"https://api.open-meteo.com/v1/forecast?latitude={latitude}&longitude={longitude}&hourly=temperature_2m&start_date={start_date}&end_date={end_date}"
-url = f"https://api.open-meteo.com/v1/forecast?daily=weather_code,apparent_temperature_max,apparent_temperature_min&latitude={latitude}&longitude={longitude}&start_date={start_date}&end_date={end_date}"
+#url = f"https://api.open-meteo.com/v1/forecast?latitude={latitude}&longitude={longitude}&hourly=temperature_2m&start_date={start_date}&end_date={end_date}"
+#url = f"https://api.open-meteo.com/v1/forecast?daily=weather_code,apparent_temperature_max,apparent_temperature_min&latitude={latitude}&longitude={longitude}&start_date={start_date}&end_date={end_date}"
 print(url)
