@@ -18,3 +18,7 @@ If no dates are provided, return today's date.
 Output a JSON object containing the extracted information with the following keys: "city", "start_date", and "end_date".  
 User input:
 """
+
+# url = f"https://api.open-meteo.com/v1/forecast?latitude={latitude}&longitude={longitude}&hourly=temperature_2m&start_date={start_date}&end_date={end_date}"
+url = f"https://api.open-meteo.com/v1/forecast?daily=weather_code,apparent_temperature_max,apparent_temperature_min&latitude={latitude}&longitude={longitude}&start_date={start_date}&end_date={end_date}"
+print(url)
