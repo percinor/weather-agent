@@ -1,4 +1,4 @@
-00	Cloud development not observed or not observable
+00	Cloud development not observed or not observable 
 01	Clouds generally dissolving or becoming less developed
 02	State of sky on the whole unchanged
 03	Clouds generally forming or developing
