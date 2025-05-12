@@ -1,3 +1,4 @@
+https://www.nodc.noaa.gov/archive/arc0021/0002199/1.1/data/0-data/HTML/WMO-CODE/WMO4677.HTM
 00	Cloud development not observed or not observable 
 01	Clouds generally dissolving or becoming less developed
 02	State of sky on the whole unchanged
