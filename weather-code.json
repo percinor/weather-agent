@@ -1,402 +1,502 @@
 [
     {
-        "code": "00",
-        "description": "Cloud development not observed or not observable"
+    "code": "00",
+    "description": "Cloud development not observed or not observable",
+    "summary": "Clear"
     },
     {
-        "code": "01",
-        "description": "Clouds generally dissolving or becoming less developed"
+    "code": "01",
+    "description": "Clouds generally dissolving or becoming less developed",
+    "summary": "Clouds dissolving"
     },
     {
-        "code": "02",
-        "description": "State of sky on the whole unchanged"
+    "code": "02",
+    "description": "State of sky on the whole unchanged",
+    "summary": "Sky unchanged"
     },
     {
-        "code": "03",
-        "description": "Clouds generally forming or developing"
+    "code": "03",
+    "description": "Clouds generally forming or developing",
+    "summary": "Clouds forming"
     },
     {
-        "code": "04",
-        "description": "Visibility reduced by smoke, e.g. veldt or forest fires, industrial smoke or volcanic ashes"
+    "code": "04",
+    "description": "Visibility reduced by smoke, e.g. veldt or forest fires, industrial smoke or volcanic ashes",
+    "summary": "Smoke"
     },
     {
-        "code": "05",
-        "description": "Haze"
+    "code": "05",
+    "description": "Haze",
+    "summary": "Hazy"
     },
     {
-        "code": "06",
-        "description": "Widespread dust in suspension in the air, not raised by wind at or near the station at the time of observation"
+    "code": "06",
+    "description": "Widespread dust in suspension in the air, not raised by wind at or near the station at the time of observation",
+    "summary": "Dust"
     },
     {
-        "code": "07",
-        "description": "Dust or sand raised by wind at or near the station at the time of observation, but no well developed dust whirl(s) or sand whirl(s), and no duststorm or sandstorm seen"
+    "code": "07",
+    "description": "Dust or sand raised by wind at or near the station at the time of observation, but no well developed dust whirl(s) or sand whirl(s), and no duststorm or sandstorm seen",
+    "summary": "Blowing dust/sand"
     },
     {
-        "code": "08",
-        "description": "Well developed dust whirl(s) or sand whirl(s) seen at or near the station during the preceding hour or at the time ot observation, but no duststorm or sandstorm"
+    "code": "08",
+    "description": "Well developed dust whirl(s) or sand whirl(s) seen at or near the station during the preceding hour or at the time ot observation, but no duststorm or sandstorm",
+    "summary": "Dust/sand whirls"
     },
     {
-        "code": "09",
-        "description": "Duststorm or sandstorm within sight at the time of observation, or at the station during the preceding hour"
+    "code": "09",
+    "description": "Duststorm or sandstorm within sight at the time of observation, or at the station during the preceding hour",
+    "summary": "Duststorm/sandstorm"
     },
     {
-        "code": "10",
-        "description": "Mist"
+    "code": "10",
+    "description": "Mist",
+    "summary": "Misty"
     },
     {
-        "code": "11",
-        "description": "Patches\t"
+    "code": "11",
+    "description": "Patches",
+    "summary": "Fog patches"
     },
     {
-        "code": "12",
-        "description": "More or less continuous"
+    "code": "12",
+    "description": "More or less continuous",
+    "summary": "Continuous fog"
     },
     {
-        "code": "13",
-        "description": "Lightning visible, no thunder heard"
+    "code": "13",
+    "description": "Lightning visible, no thunder heard",
+    "summary": "Lightning"
     },
     {
-        "code": "14",
-        "description": "Precipitation within sight, not reaching the ground or the surface of the sea"
+    "code": "14",
+    "description": "Precipitation within sight, not reaching the ground or the surface of the sea",
+    "summary": "Virga"
     },
     {
-        "code": "15",
-        "description": "Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station"
+    "code": "15",
+    "description": "Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station",
+    "summary": "Distant precipitation"
     },
     {
-        "code": "16",
-        "description": "Precipitation within sight, reaching the ground or the surface of the sea, near to, but not at the station"
+    "code": "16",
+    "description": "Precipitation within sight, reaching the ground or the surface of the sea, near to, but not at the station",
+    "summary": "Nearby precipitation"
     },
     {
-        "code": "17",
-        "description": "Thunderstorm, but no precipitation at the time of observation"
+    "code": "17",
+    "description": "Thunderstorm, but no precipitation at the time of observation",
+    "summary": "Dry thunderstorm"
     },
     {
-        "code": "18",
-        "description": "Squalls\tat or within sight of the station during the preceding hour or at the time of observation"
+    "code": "18",
+    "description": "Squalls at or within sight of the station during the preceding hour or at the time of observation",
+    "summary": "Squalls"
     },
     {
-        "code": "19",
-        "description": "Funnel cloud(s)**"
+    "code": "19",
+    "description": "Funnel cloud(s)**",
+    "summary": "Funnel cloud"
     },
     {
-        "code": "20",
-        "description": "Drizzle (not freezing) or snow grains\t"
+    "code": "20",
+    "description": "Drizzle (not freezing) or snow grains",
+    "summary": "Drizzle/snow grains"
     },
     {
-        "code": "21",
-        "description": "Rain (not freezing)"
+    "code": "21",
+    "description": "Rain (not freezing)",
+    "summary": "Rain"
     },
     {
-        "code": "22",
-        "description": "Snow"
+    "code": "22",
+    "description": "Snow",
+    "summary": "Snow"
     },
     {
-        "code": "23",
-        "description": "Rain and snow or ice pellets"
+    "code": "23",
+    "description": "Rain and snow or ice pellets",
+    "summary": "Rain and snow"
     },
     {
-        "code": "24",
-        "description": "Freezing drizzle or freezing rain"
+    "code": "24",
+    "description": "Freezing drizzle or freezing rain",
+    "summary": "Freezing rain"
     },
     {
-        "code": "25",
-        "description": "Shower(s) of rain"
+    "code": "25",
+    "description": "Shower(s) of rain",
+    "summary": "Rain showers"
     },
     {
-        "code": "26",
-        "description": "Shower(s) of snow, or of rain and snow"
+    "code": "26",
+    "description": "Shower(s) of snow, or of rain and snow",
+    "summary": "Snow/rain showers"
     },
     {
-        "code": "27",
-        "description": "Shower(s) of hail*, or of rain and hail*"
+    "code": "27",
+    "description": "Shower(s) of hail*, or of rain and hail*",
+    "summary": "Hail showers"
     },
     {
-        "code": "28",
-        "description": "Fog or ice fog"
+    "code": "28",
+    "description": "Fog or ice fog",
+    "summary": "Fog"
     },
     {
-        "code": "29",
-        "description": "Thunderstorm (with or without precipitation)"
+    "code": "29",
+    "description": "Thunderstorm (with or without precipitation)",
+    "summary": "Thunderstorm"
     },
     {
-        "code": "30",
-        "description": "Slight or moderate duststorm or sandstorm\t- has decreased during the preceding hour"
+    "code": "30",
+    "description": "Slight or moderate duststorm or sandstorm - has decreased during the preceding hour",
+    "summary": "Duststorm decreasing"
     },
     {
-        "code": "31",
-        "description": "Slight or moderate duststorm or sandstorm          - no appreciable change during the preceding hour"
+    "code": "31",
+    "description": "Slight or moderate duststorm or sandstorm - no appreciable change during the preceding hour",
+    "summary": "Duststorm steady"
     },
     {
-        "code": "32",
-        "description": "Slight or moderate duststorm or sandstorm          - has begun or has increased during the preceding hour"
+    "code": "32",
+    "description": "Slight or moderate duststorm or sandstorm - has begun or has increased during the preceding hour",
+    "summary": "Duststorm increasing"
     },
     {
-        "code": "33",
-        "description": "Severe duststorm or sandstorm\t- has decreased during the preceding hour"
+    "code": "33",
+    "description": "Severe duststorm or sandstorm - has decreased during the preceding hour",
+    "summary": "Severe duststorm decreasing"
     },
     {
-        "code": "34",
-        "description": "Severe duststorm or sandstorm   - no appreciable change during the preceding hour"
+    "code": "34",
+    "description": "Severe duststorm or sandstorm - no appreciable change during the preceding hour",
+    "summary": "Severe duststorm steady"
     },
     {
-        "code": "35",
-        "description": "Severe duststorm or sandstorm   - has begun or has increased during the preceding hour"
+    "code": "35",
+    "description": "Severe duststorm or sandstorm - has begun or has increased during the preceding hour",
+    "summary": "Severe duststorm increasing"
     },
     {
-        "code": "36",
-        "description": "Slight or moderate blowing snow\tgenerally low (below eye level)"
+    "code": "36",
+    "description": "Slight or moderate blowing snow generally low (below eye level)",
+    "summary": "Low blowing snow"
     },
     {
-        "code": "37",
-        "description": "Heavy drifting snow                                   generally low (below eye level)"
+    "code": "37",
+    "description": "Heavy drifting snow generally low (below eye level)",
+    "summary": "Heavy low drifting snow"
     },
     {
-        "code": "38",
-        "description": "Slight or moderate blowing snow\tgenerally high (above eye level)"
+    "code": "38",
+    "description": "Slight or moderate blowing snow generally high (above eye level)",
+    "summary": "High blowing snow"
     },
     {
-        "code": "39",
-        "description": "Heavy drifting snow                                   generally low (below eye level)"
+    "code": "39",
+    "description": "Heavy drifting snow generally high (above eye level)",
+    "summary": "Heavy high drifting snow"
     },
     {
-        "code": "40",
-        "description": "Fog or ice fog at a distance at the time of observation, but not at the station during the preceding hour, the fog or ice fog extending to a level above that of the observer"
+    "code": "40",
+    "description": "Fog or ice fog at a distance at the time of observation, but not at the station during the preceding hour, the fog or ice fog extending to a level above that of the observer",
+    "summary": "Distant fog"
     },
     {
-        "code": "41",
-        "description": "Fog or ice fog in patches"
+    "code": "41",
+    "description": "Fog or ice fog in patches",
+    "summary": "Fog patches"
     },
     {
-        "code": "42",
-        "description": "Fog or ice fog, sky visible\thas become thinner during the preceding hour"
+    "code": "42",
+    "description": "Fog or ice fog, sky visible has become thinner during the preceding hour",
+    "summary": "Fog thinning"
     },
     {
-        "code": "43",
-        "description": "Fog or ice fog, sky invisible           has become thinner during the preceding hour"
+    "code": "43",
+    "description": "Fog or ice fog, sky invisible has become thinner during the preceding hour",
+    "summary": "Dense fog thinning"
     },
     {
-        "code": "44",
-        "description": "Fog or ice fog, sky visible\tno appreciable change during the preceding hour"
+    "code": "44",
+    "description": "Fog or ice fog, sky visible no appreciable change during the preceding hour",
+    "summary": "Steady fog"
     },
     {
-        "code": "45",
-        "description": "Fog or ice fog, sky invisible          no appreciable change during the preceding hour"
+    "code": "45",
+    "description": "Fog or ice fog, sky invisible no appreciable change during the preceding hour",
+    "summary": "Steady dense fog"
     },
     {
-        "code": "46",
-        "description": "Fog or ice fog, sky visible\thas begun or has become thicker during the preceding hour"
+    "code": "46",
+    "description": "Fog or ice fog, sky visible has begun or has become thicker during the preceding hour",
+    "summary": "Fog thickening"
     },
     {
-        "code": "47",
-        "description": "Fog or ice fog, sky invisible          has begun or has become thicker during the preceding hour"
+    "code": "47",
+    "description": "Fog or ice fog, sky invisible has begun or has become thicker during the preceding hour",
+    "summary": "Dense fog thickening"
     },
     {
-        "code": "48",
-        "description": "Fog, depositing rime, sky visible"
+    "code": "48",
+    "description": "Fog, depositing rime, sky visible",
+    "summary": "Rime fog"
     },
     {
-        "code": "49",
-        "description": "Fog, depositing rime, sky invisible"
+    "code": "49",
+    "description": "Fog, depositing rime, sky invisible",
+    "summary": "Dense rime fog"
     },
     {
-        "code": "50",
-        "description": "Drizzle, not freezing, intermittent\tslight at time of observation"
+    "code": "50",
+    "description": "Drizzle, not freezing, intermittent slight at time of observation",
+    "summary": "Slight intermittent drizzle"
     },
     {
-        "code": "51",
-        "description": "Drizzle, not freezing, continuous               slight at time of observation"
+    "code": "51",
+    "description": "Drizzle, not freezing, continuous slight at time of observation",
+    "summary": "Slight continuous drizzle"
     },
     {
-        "code": "52",
-        "description": "Drizzle, not freezing, intermittent\tmoderate at time of observation"
+    "code": "52",
+    "description": "Drizzle, not freezing, intermittent moderate at time of observation",
+    "summary": "Moderate intermittent drizzle"
     },
     {
-        "code": "53",
-        "description": "Drizzle, not freezing, continuous                moderate at time of observation"
+    "code": "53",
+    "description": "Drizzle, not freezing, continuous moderate at time of observation",
+    "summary": "Moderate continuous drizzle"
     },
     {
-        "code": "54",
-        "description": "Drizzle, not freezing, intermittent\theavy (dense) at time of observation"
+    "code": "54",
+    "description": "Drizzle, not freezing, intermittent heavy (dense) at time of observation",
+    "summary": "Heavy intermittent drizzle"
     },
     {
-        "code": "55",
-        "description": "Drizzle, not freezing, continuous               heavy (dense) at time of observation"
+    "code": "55",
+    "description": "Drizzle, not freezing, continuous heavy (dense) at time of observation",
+    "summary": "Heavy continuous drizzle"
     },
     {
-        "code": "56",
-        "description": "Drizzle, freezing, slight"
+    "code": "56",
+    "description": "Drizzle, freezing, slight",
+    "summary": "Slight freezing drizzle"
     },
     {
-        "code": "57",
-        "description": "Drizzle, freezing, moderate or heavy (dence)"
+    "code": "57",
+    "description": "Drizzle, freezing, moderate or heavy (dence)",
+    "summary": "Heavy freezing drizzle"
     },
     {
-        "code": "58",
-        "description": "Drizzle and rain, slight"
+    "code": "58",
+    "description": "Drizzle and rain, slight",
+    "summary": "Slight rain and drizzle"
     },
     {
-        "code": "59",
-        "description": "Drizzle and rain, moderate or heavy"
+    "code": "59",
+    "description": "Drizzle and rain, moderate or heavy",
+    "summary": "Heavy rain and drizzle"
     },
     {
-        "code": "60",
-        "description": "Rain, not freezing, intermittent\tslight at time of observation"
+    "code": "60",
+    "description": "Rain, not freezing, intermittent slight at time of observation",
+    "summary": "Slight intermittent rain"
     },
     {
-        "code": "61",
-        "description": "Rain, not freezing, continuous      slight at time of observation"
+    "code": "61",
+    "description": "Rain, not freezing, continuous slight at time of observation",
+    "summary": "Slight continuous rain"
     },
     {
-        "code": "62",
-        "description": "Rain, not freezing, intermittent\tmoderate at time of observation"
+    "code": "62",
+    "description": "Rain, not freezing, intermittent moderate at time of observation",
+    "summary": "Moderate intermittent rain"
     },
     {
-        "code": "63",
-        "description": "Rain, not freezing, continuous      moderate at time of observation"
+    "code": "63",
+    "description": "Rain, not freezing, continuous moderate at time of observation",
+    "summary": "Moderate continuous rain"
     },
     {
-        "code": "64",
-        "description": "Rain, not freezing, intermittent\theavy at time of observation"
+    "code": "64",
+    "description": "Rain, not freezing, intermittent heavy at time of observation",
+    "summary": "Heavy intermittent rain"
     },
     {
-        "code": "65",
-        "description": "Rain, not freezing, continuous      heavy at time of observation"
+    "code": "65",
+    "description": "Rain, not freezing, continuous heavy at time of observation",
+    "summary": "Heavy continuous rain"
     },
     {
-        "code": "66",
-        "description": "Rain, freezing, slight"
+    "code": "66",
+    "description": "Rain, freezing, slight",
+    "summary": "Slight freezing rain"
     },
     {
-        "code": "67",
-        "description": "Rain, freezing, moderate or heavy (dence)"
+    "code": "67",
+    "description": "Rain, freezing, moderate or heavy (dence)",
+    "summary": "Heavy freezing rain"
     },
     {
-        "code": "68",
-        "description": "Rain or drizzle and snow, slight"
+    "code": "68",
+    "description": "Rain or drizzle and snow, slight",
+    "summary": "Slight rain/snow mix"
     },
     {
-        "code": "69",
-        "description": "Rain or drizzle and snow, moderate or heavy"
+    "code": "69",
+    "description": "Rain or drizzle and snow, moderate or heavy",
+    "summary": "Heavy rain/snow mix"
     },
     {
-        "code": "70",
-        "description": "Intermittent fall of snowflakes\tslight at time of observation"
+    "code": "70",
+    "description": "Intermittent fall of snowflakes slight at time of observation",
+    "summary": "Slight intermittent snow"
     },
     {
-        "code": "71",
-        "description": "Continuous fall of snowflakes       slight at time of observation"
+    "code": "71",
+    "description": "Continuous fall of snowflakes slight at time of observation",
+    "summary": "Slight continuous snow"
     },
     {
-        "code": "72",
-        "description": "Intermittent fall of snowflakes\tmoderate at time of observation"
+    "code": "72",
+    "description": "Intermittent fall of snowflakes moderate at time of observation",
+    "summary": "Moderate intermittent snow"
     },
     {
-        "code": "73",
-        "description": "Continuous fall of snowflakes       moderate at time of observation"
+    "code": "73",
+    "description": "Continuous fall of snowflakes moderate at time of observation",
+    "summary": "Moderate continuous snow"
     },
     {
-        "code": "74",
-        "description": "Intermittent fall of snowflakes\theavy at time of observation"
+    "code": "74",
+    "description": "Intermittent fall of snowflakes heavy at time of observation",
+    "summary": "Heavy intermittent snow"
     },
     {
-        "code": "75",
-        "description": "Continuous fall of snowflakes       heavy at time of observation"
+    "code": "75",
+    "description": "Continuous fall of snowflakes heavy at time of observation",
+    "summary": "Heavy continuous snow"
     },
     {
-        "code": "76",
-        "description": "Diamond dust (with or without fog)"
+    "code": "76",
+    "description": "Diamond dust (with or without fog)",
+    "summary": "Diamond dust"
     },
     {
-        "code": "77",
-        "description": "Snow grains (with or without fog)"
+    "code": "77",
+    "description": "Snow grains (with or without fog)",
+    "summary": "Snow grains"
     },
     {
-        "code": "78",
-        "description": "Isolated star-like snow crystals (with or without fog)"
+    "code": "78",
+    "description": "Isolated star-like snow crystals (with or without fog)",
+    "summary": "Snow crystals"
     },
     {
-        "code": "79",
-        "description": "Ice pellets"
+    "code": "79",
+    "description": "Ice pellets",
+    "summary": "Ice pellets"
     },
     {
-        "code": "80",
-        "description": "Rain shower(s), slight"
+    "code": "80",
+    "description": "Rain shower(s), slight",
+    "summary": "Slight rain showers"
     },
     {
-        "code": "81",
-        "description": "Rain shower(s), moderate or heavy"
+    "code": "81",
+    "description": "Rain shower(s), moderate or heavy",
+    "summary": "Heavy rain showers"
     },
     {
-        "code": "82",
-        "description": "Rain shower(s), violent"
+    "code": "82",
+    "description": "Rain shower(s), violent",
+    "summary": "Violent rain showers"
     },
     {
-        "code": "83",
-        "description": "Shower(s) of rain and snow mixed, slight"
+    "code": "83",
+    "description": "Shower(s) of rain and snow mixed, slight",
+    "summary": "Slight rain/snow showers"
     },
     {
-        "code": "84",
-        "description": "Shower(s) of rain and snow mixed, moderate or heavy"
+    "code": "84",
+    "description": "Shower(s) of rain and snow mixed, moderate or heavy",
+    "summary": "Heavy rain/snow showers"
     },
     {
-        "code": "85",
-        "description": "Snow shower(s), slight"
+    "code": "85",
+    "description": "Snow shower(s), slight",
+    "summary": "Slight snow showers"
     },
     {
-        "code": "86",
-        "description": "Snow shower(s), moderate or heavy"
+    "code": "86",
+    "description": "Snow shower(s), moderate or heavy",
+    "summary": "Heavy snow showers"
     },
     {
-        "code": "87",
-        "description": "Shower(s) of snow pellets or small hail, with or without rain or rain and snow mixed\t- slight"
+    "code": "87",
+    "description": "Shower(s) of snow pellets or small hail, with or without rain or rain and snow mixed - slight",
+    "summary": "Slight hail/snow pellets"
     },
     {
-        "code": "88",
-        "description": "Shower(s) of snow pellets or small hail, with or without rain or rain and snow mixed               - moderate or heavy"
+    "code": "88",
+    "description": "Shower(s) of snow pellets or small hail, with or without rain or rain and snow mixed - moderate or heavy",
+    "summary": "Heavy hail/snow pellets"
     },
     {
-        "code": "89",
-        "description": "Shower(s) of hail*, with or without rain or rain and snow mixed, not associated with thunder\t- slight"
+    "code": "89",
+    "description": "Shower(s) of hail*, with or without rain or rain and snow mixed, not associated with thunder - slight",
+    "summary": "Slight hail"
     },
     {
-        "code": "90",
-        "description": "Shower(s) of hail*, with or without rain or rain and snow mixed, not associated with thunder               - moderate or heavy"
+    "code": "90",
+    "description": "Shower(s) of hail*, with or without rain or rain and snow mixed, not associated with thunder - moderate or heavy",
+    "summary": "Heavy hail"
     },
     {
-        "code": "91",
-        "description": "Slight rain at time of observation\tThunderstorm during the preceding hour but not at time of observation"
+    "code": "91",
+    "description": "Slight rain at time of observation Thunderstorm during the preceding hour but not at time of observation",
+    "summary": "Thunderstorm, slight rain"
     },
     {
-        "code": "92",
-        "description": "Moderate or heavy rain at time of observation       Thunderstorm during the preceding hour but not at time of observation"
+    "code": "92",
+    "description": "Moderate or heavy rain at time of observation Thunderstorm during the preceding hour but not at time of observation",
+    "summary": "Thunderstorm, heavy rain"
     },
     {
-        "code": "93",
-        "description": "Slight snow, or rain and snow mixed or hail** at time of observation     Thunderstorm during the preceding hour but not at time of observation"
+    "code": "93",
+    "description": "Slight snow, or rain and snow mixed or hail** at time of observation Thunderstorm during the preceding hour but not at time of observation",
+    "summary": "Thunderstorm, slight snow/hail"
     },
     {
-        "code": "94",
-        "description": "Moderate or heavy snow, or rain and snow mixed or hail** at time of observation      Thunderstorm during the preceding hour but not at time of observation"
+    "code": "94",
+    "description": "Moderate or heavy snow, or rain and snow mixed or hail** at time of observation Thunderstorm during the preceding hour but not at time of observation",
+    "summary": "Thunderstorm, heavy snow/hail"
     },
     {
-        "code": "95",
-        "description": "Thunderstorm, slight or moderate, without hail** but with rain and/or snow at time of observation\tThunderstorm at time of observation"
+    "code": "95",
+    "description": "Thunderstorm, slight or moderate, without hail** but with rain and/or snow at time of observation Thunderstorm at time of observation",
+    "summary": "Thunderstorm with rain/snow"
     },
     {
-        "code": "96",
-        "description": "Thunderstorm, slight or moderate, with hail** at time of observation         Thunderstorm at time of observation"
+    "code": "96",
+    "description": "Thunderstorm, slight or moderate, with hail** at time of observation Thunderstorm at time of observation",
+    "summary": "Thunderstorm with hail"
     },
     {
-        "code": "97",
-        "description": "Thunderstorm, heavy, without hail** but with rain and/or snow at time of observation         Thunderstorm at time of observation"
+    "code": "97",
+    "description": "Thunderstorm, heavy, without hail** but with rain and/or snow at time of observation Thunderstorm at time of observation",
+    "summary": "Heavy thunderstorm with rain/snow"
     },
     {
-        "code": "98",
-        "description": "Thunderstorm combined with duststorm or sandstorm at time of observation             Thunderstorm at time of observation"
+    "code": "98",
+    "description": "Thunderstorm combined with duststorm or sandstorm at time of observation Thunderstorm at time of observation",
+    "summary": "Thunderstorm with duststorm"
     },
     {
-        "code": "99",
-        "description": "Thunderstorm, heavy, with hail** at time of observation                          Thunderstorm at time of observation"
+    "code": "99",
+    "description": "Thunderstorm, heavy, with hail** at time of observation Thunderstorm at time of observation",
+    "summary": "Heavy thunderstorm with hail"
     }
 ]
